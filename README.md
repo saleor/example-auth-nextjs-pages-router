@@ -1,7 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-> [!TIP]
-> Questions or issues? Check our [discord](https://discord.gg/H52JTZAtSH) channel for help.
+> [!WARNING]
+> This repository is not longer maintained - go to https://github.com/saleor/examples for Saleor examples
+
 
 ## Getting Started
 
